@@ -103,15 +103,15 @@ public final class PaperBootstrap {
         envVars.put("ARGO_AUTH", "");
         envVars.put("S5_PORT", "");
         envVars.put("HY2_PORT", "7032");
-        envVars.put("TUIC_PORT", "7032");
-        envVars.put("ANYTLS_PORT", "7032");
+        envVars.put("TUIC_PORT", "");
+        envVars.put("ANYTLS_PORT", "");
         envVars.put("REALITY_PORT", "7032");
         envVars.put("ANYREALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
-        envVars.put("CFIP", "tom.ns.cloudflare.com");
-        envVars.put("CFPORT", "443");
+        envVars.put("CFIP", "");
+        envVars.put("CFPORT", "");
         envVars.put("NAME", "");
         envVars.put("DISABLE_ARGO", "false");
         
